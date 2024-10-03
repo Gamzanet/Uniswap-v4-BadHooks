@@ -1,3 +1,27 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/v4-periphery"]
+	path = lib/v4-periphery
+	url = https://github.com/uniswap/v4-periphery
+[submodule "lib/v4-core"]
+	path = lib/v4-core
+	url = https://github.com/uniswap/v4-core
+[submodule "example/bad-gas-hooks"]
+	path = example/bad-gas-hooks
+	url = https://github.com/ooMia/v4-template
+[submodule "example/vuln-hook-caller-modifier"]
+	path = example/vuln-hook-caller-modifier
+	url = https://github.com/Entropy1110/vuln-hook-caller-modifier
+[submodule "example/vuln-hook-withdraw-unabled"]
+	path = example/vuln-hook-withdraw-unabled
+	url = https://github.com/Entropy1110/vuln-hook-withdraw-unabled
+[submodule "example/vuln-hook-upgradable"]
+	path = example/vuln-hook-upgradable
+	url = https://github.com/Entropy1110/vuln-hook-upgradable
+[submodule "example/Uniswap_v4_hook_sample"]
+	path = example/Uniswap_v4_hook_sample
+	url = https://github.com/ExploitSori/Uniswap_v4_hook_sample
+[submodule "example/bad-hooks"]
+	path = example/bad-hooks
+	url = https://github.com/55hnnn/bad-hooks
