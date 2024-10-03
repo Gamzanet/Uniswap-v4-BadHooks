@@ -17,7 +17,7 @@
 - [hookCallerModifier/test](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookCallerModifier/test/Exploit.t.sol)
 - [hookUnableToWithdraw/src](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUnableToWithdraw/src/TakeProfitsHook.sol)
 - [hookUnableToWithdraw/test](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUnableToWithdraw/test/TakeProfitshook.t.sol)
-- [hookUpgradable/src](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUpgradable/src/Counter.sol)
+- [hookUpgradable/src](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUpgradable/src/Counter.sol#L104)
 - [hookUpgradable/test](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUpgradable/test/Counter.t.sol#L84)
 
 # [ooMia/bad-gas-hooks](https://github.com/ooMia/v4-template/tree/c161984d149cdbdb953382433044cefa0582641b)
