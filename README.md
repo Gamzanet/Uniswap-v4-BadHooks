@@ -12,13 +12,10 @@
 - [slot0-oracle/test](https://github.com/ExploitSori/Uniswap_v4_hook_sample/blob/da8bb7127e226aa3764bfcb9d670ad3a37a50347/slot0-oracle/test/Counter.t.sol)
 - [time-out](https://github.com/ExploitSori/Uniswap_v4_hook_sample/blob/da8bb7127e226aa3764bfcb9d670ad3a37a50347/time-out/src/Counter.sol#L31)
 
-# [entropy1110/vuln-hooks](https://github.com/Entropy1110/vuln-hooks/tree/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1)
-- [hookCallerModifier/src](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookCallerModifier/src/Counter.sol#L67)
-- [hookCallerModifier/test](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookCallerModifier/test/Exploit.t.sol)
-- [hookUnableToWithdraw/src](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUnableToWithdraw/src/TakeProfitsHook.sol)
-- [hookUnableToWithdraw/test](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUnableToWithdraw/test/TakeProfitshook.t.sol)
-- [hookUpgradable/src](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUpgradable/src/Counter.sol#L104)
-- [hookUpgradable/test](https://github.com/Entropy1110/vuln-hooks/blob/7a4dafcee882c4ebb80952ae2fe3ae35d19f90b1/hookUpgradable/test/Counter.t.sol#L84)
+# [entropy1110/vuln-hooks](https://github.com/Entropy1110/vuln-hooks)
+- [hookCallerModifier](https://github.com/Entropy1110/vuln-hooks/tree/main/hookCallerModifier)
+- [hookUpgradable](https://github.com/Entropy1110/vuln-hooks/tree/main/hookUpgradable)
+- [hookDoubleInit](https://github.com/Entropy1110/vuln-hooks/tree/main/hookDoubleInit)
 
 # [ooMia/bad-gas-hooks](https://github.com/ooMia/v4-template/tree/c161984d149cdbdb953382433044cefa0582641b)
 > gas 소비량에 대한 간단한 나쁜 훅을 구현하고, 테스트를 통해 검증했습니다.
